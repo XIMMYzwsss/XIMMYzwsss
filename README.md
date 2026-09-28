@@ -34,9 +34,9 @@ Here is the hardware powering my development environment:
 
 ---
 
-### GitHub Stats
-![XIMMYzwsss's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### Profile Activity
+* Public Repositories: ZilkLib, hexxstrap-cloud, FAHHH, Dex-Premium
+* Primary Languages: Lua, HTML, CSS, JavaScript
 
 ---
 
