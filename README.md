@@ -22,26 +22,3 @@ Here is the hardware powering my development environment:
 | Storage (System C:) | 952 GB |
 | Operating System | Microsoft Windows 11 Pro |
 | Display Resolution | 1440 x 1080 |
-
----
-
-### Tech Stack and Tools
-![Lua](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![GitHub](https://shields.io)
-
----
-
-### Profile Activity
-* Public Repositories: ZilkLib, hexxstrap-cloud, FAHHH, Dex-Premium
-* Primary Languages: Lua, HTML, CSS, JavaScript
-
----
-
-### Connect with Me
-* Visit my GitHub Profile: https://github.com
-* Ask me about Lua programming, public APIs, or repository setup.
-
-Feel free to star my repositories if you find them helpful.
