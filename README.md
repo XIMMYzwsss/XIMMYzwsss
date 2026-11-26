@@ -1,6 +1,6 @@
 # Hi there, I'm XimmyXimz (@XIMMYzwsss)
 
-Welcome to my GitHub profile. I'm a developer focused on scripting, web environments, and creating tools.
+Welcome to my GitHub profile. I'm a solo developer focused on scripting, web environments, and creating tools.
 
 ---
 
